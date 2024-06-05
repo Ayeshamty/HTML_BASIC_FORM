@@ -1,3 +1,6 @@
+h1:hover{
+    background-color:rgb(225, 219, 212);
+}
 body{
     background-color:#be97c3;
     font-family:Verdana;
@@ -34,4 +37,15 @@ form {
     display: inline-block;
     width:auto;
     background-color: rgb(225, 219, 212);
+}
+button
+{
+    background-color: rgb(225, 219, 212);
+    border:1px solid #777;
+    border-radius:2px;
+    font-family: inherit;
+    margin-top:20px;
+    width:100%;
+    height: 50px;
+
 }
